@@ -1,0 +1,4 @@
+export GOOGLE_APPLICATION_CREDENTIALS=/home/kurazu/workspace/kaggle-spaceship-titanic/creds.json
+export GCP_SERVICE_ACCOUNT=service-account@pipelines-hackathon.iam.gserviceaccount.com
+export GCP_PIPELINE_OUTPUT=gs://pipelines-hackathon/spaceship-titanic
+export GCP_DOCKER_IMAGE=europe-west4-docker.pkg.dev/pipelines-hackathon/spaceship-titanic/spaceship-titanic-image
